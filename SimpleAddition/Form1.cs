@@ -19,7 +19,7 @@ namespace SimpleAddition
    
         private void Form1_Load(object sender, EventArgs e)
         {
-            label4.Text = "Version 16.0";
+            label4.Text = "Version 116.0";
         }
 
         private void button1_Click(object sender, EventArgs e)
