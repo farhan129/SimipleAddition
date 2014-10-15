@@ -1,0 +1,1 @@
+D:\SimpleAddition\SimpleAddition\obj\x86\Release\SimpleAddition.csprojResolveAssemblyReference.cache

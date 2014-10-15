@@ -1,0 +1,19 @@
+c:\users\abdullah.farhan\documents\visual studio 2010\Projects\SimpleAddition\SimpleAddition\obj\x86\Debug\SimpleAddition.Form1.resources
+c:\users\abdullah.farhan\documents\visual studio 2010\Projects\SimpleAddition\SimpleAddition\obj\x86\Debug\SimpleAddition.Properties.Resources.resources
+c:\users\abdullah.farhan\documents\visual studio 2010\Projects\SimpleAddition\SimpleAddition\obj\x86\Debug\SimpleAddition.csproj.GenerateResource.Cache
+c:\users\abdullah.farhan\documents\visual studio 2010\Projects\SimpleAddition\SimpleAddition\bin\Debug\SimpleAddition.exe
+c:\users\abdullah.farhan\documents\visual studio 2010\Projects\SimpleAddition\SimpleAddition\bin\Debug\SimpleAddition.pdb
+c:\users\abdullah.farhan\documents\visual studio 2010\Projects\SimpleAddition\SimpleAddition\obj\x86\Debug\SimpleAddition.exe
+c:\users\abdullah.farhan\documents\visual studio 2010\Projects\SimpleAddition\SimpleAddition\obj\x86\Debug\SimpleAddition.pdb
+D:\SimpleAddition\SimpleAddition\bin\Debug\SimpleAddition.exe
+D:\SimpleAddition\SimpleAddition\bin\Debug\SimpleAddition.pdb
+D:\SimpleAddition\SimpleAddition\obj\x86\Debug\SimpleAddition.csprojResolveAssemblyReference.cache
+D:\SimpleAddition\SimpleAddition\obj\x86\Debug\SimpleAddition.Form1.resources
+D:\SimpleAddition\SimpleAddition\obj\x86\Debug\SimpleAddition.Properties.Resources.resources
+D:\SimpleAddition\SimpleAddition\obj\x86\Debug\SimpleAddition.csproj.GenerateResource.Cache
+D:\SimpleAddition\SimpleAddition\obj\x86\Debug\SimpleAddition.exe
+D:\SimpleAddition\SimpleAddition\obj\x86\Debug\SimpleAddition.pdb
+c:\ccnet\PublishedFiles\SimpleAddition.exe
+c:\ccnet\PublishedFiles\SimpleAddition.pdb
+c:\ccnet\PublishedFiles\SimpleAddition\SimpleAddition.exe
+c:\ccnet\PublishedFiles\SimpleAddition\SimpleAddition.pdb
